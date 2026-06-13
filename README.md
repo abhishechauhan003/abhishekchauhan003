@@ -8,6 +8,38 @@
 Passionate about building scalable web applications, solving complex problems with Data Structures & Algorithms, and creating innovative AI-powered solutions.
 </p>
 
+<p align="center">
+Software Engineer in Progress • Building Intelligent Systems • Turning Ideas into Scalable Products
+</p>
+
+
+<p align="center">
+I'm Abhishek Chauhan — a Computer Science student passionate about Software Engineering, Generative AI, and building impactful digital experiences.
+</p>
+
+
+<h3 align="center">
+  Software Development Engineer in the Making 🚀 | AI & ML Student 🤖 | Full Stack Developer 💻
+</h3>
+
+<p align="center">
+  Passionate about building scalable applications, mastering DSA, and creating AI-powered solutions that make an impact.
+</p>
+
+
+<p align="center">
+💻 Building Software • 🚀 Solving Problems • 🤖 Exploring Generative AI
+</p>
+
+
+<h3 align="center">
+🚀 Aspiring Software Development Engineer (SDE) | AI & ML Student | Full Stack Developer | Generative AI Enthusiast
+</h3>
+
+<p align="center">
+Passionate about building scalable web applications, solving complex problems with Data Structures & Algorithms, and creating innovative AI-powered solutions.
+</p>
+
 
 <h3 align="center">🚀 Aspiring Software Development Engineer | AI & ML Student | Generative AI Enthusiast</h3>
 
